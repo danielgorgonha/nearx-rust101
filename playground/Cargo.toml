@@ -1,0 +1,14 @@
+[package]
+name = "calc_near_x"
+version = "0.1.0"
+edition = "2024"
+
+description = "Simple lib for lean proposal"
+autors = ["Daniel R Gorgonha <rogergorgonha@gmail.com>"]
+repository = "https://github.com/danielgorgonha/calc_near_x.git"
+readme = "README.md"
+keywords = [
+  "learn"
+]
+
+[dependencies]
