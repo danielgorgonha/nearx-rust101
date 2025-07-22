@@ -38,3 +38,11 @@
   - Projeto prático de um servidor HTTP em Rust, com endpoints de soma e subtração, exemplos de uso, deploy com Docker e práticas de versionamento.
 
 > Este README serve como índice para os módulos e projetos do curso. Consulte cada link para detalhes e exemplos práticos.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+---
+
+Feito com 💜 by [Daniel R Gorgonha](https://www.linkedin.com/in/danielgorgonha/) :wave:
